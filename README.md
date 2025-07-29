@@ -13,8 +13,12 @@ const du = {
     graduating: "Software Engineering"
 };
 
+const philosophy = {
+  description: "Building solutions, one line of code at a time"
+};
+
 const goals = {
-  description: "Master full-stack development and create innovative solutions that make a difference."
+  description: "Working toward mastering the art of turning ideas into digital reality"
 };
 
 ```
@@ -49,6 +53,8 @@ const goals = {
 <img align="center" alt="TailwindCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /> 
 
 <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+<img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
 
 <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg">
 
