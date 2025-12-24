@@ -24,8 +24,11 @@ const goals = {
 ```
 
 <div align="center">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=DuRendeer&show_icons=true&theme=aura&include_all_commits=true&count_private=true&locale=en&" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DuRendeer&show_icons=true&theme=aura&include_all_commits=true&count_private=true&locale=en&&layout=compact&langs_count=8&card_width=320" />
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DuRendeer&show_icons=true&theme=aura&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=DuRendeer&theme=aura&layout=compact&langs_count=8)
+
 </div>
 
 ##
